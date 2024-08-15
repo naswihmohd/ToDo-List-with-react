@@ -1,0 +1,67 @@
+input{
+    width: 25%;
+    height: 35px;
+    border-radius: 6px;
+    border: 1px solid rgb(43, 66, 10);
+}
+
+button{
+    width: 50px;
+    border: none;
+    color: white;
+    background-color: red;
+    border-radius: 7px;
+    height: 35px;
+    margin-left: 9px;
+}
+
+li{
+    width: 20%;
+    height: 30px;
+    background-color: rgb(7, 1, 78);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: start;
+    padding-left: 40px;
+    list-style: none;
+    color: white;
+    padding-right: 10px;
+}
+
+i{
+    float: right;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.check{
+    color: red;
+}
+
+.done{
+    color: rgb(153, 255, 0);
+}
+
+.edtInput{
+    width: 200px;
+    height: 28px;
+    margin-top: 20px;
+    background-color: rgb(116, 209, 142);
+    border-radius: 10px;
+    text-align: start;
+    padding-left: 40px;
+    list-style: none;
+    color: white;
+    padding-right: 10px;
+}
+
+.saveBtn{
+    width: 50px;
+    border: none;
+    color: white;
+    background-color: rgb(4, 178, 1);
+    border-radius: 7px;
+    height: 28px;
+    margin-left: 9px;
+}
